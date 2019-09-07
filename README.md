@@ -1,1 +1,0 @@
-# finance_essay
