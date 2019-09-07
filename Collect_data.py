@@ -12,7 +12,7 @@ import pandas as pd
 import time
 
 # 退市股票序列
-ts.set_token('23be3aa0c7f70e05325b9df6d8e17dbb353c335db7beb0dace118a8c')
+ts.set_token('###################################################')
 pro = ts.pro_api()
 delist_data = pro.stock_basic(exchange='',
                               list_status='D', 
